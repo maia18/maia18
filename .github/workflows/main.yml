@@ -10,6 +10,12 @@ jobs:
     name: Update Data and Generate Output
     runs-on: ubuntu-latest
     steps:
+      # Configuração do Git
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       # Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@master
