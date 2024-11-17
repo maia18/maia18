@@ -32,8 +32,8 @@
   <a href="www.linkedin.com/in/nelson-kauê-b59290263" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
   <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b" target="_blanck"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck" alt="Spotify"></a>
   <a href="https://www.instagram.com/_kaue20_/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck" alt="Instagram"></a>
-  <div align="right"><img src="https://github.com/user-attachments/assets/2fa84b9d-33bd-4b0e-b1cf-4ed96b0e8c59" width=300></div>
 </div>
+<div align="right"><img src="https://github.com/user-attachments/assets/2fa84b9d-33bd-4b0e-b1cf-4ed96b0e8c59" width=300></div>
 
 <!-- file:///C:/Users/Nelso/Downloads/download20241100093444.png -->
         
