@@ -1,6 +1,6 @@
-👋 Hi, I’m Kauê Maia
-👀 I’m interested in web development - front and back-end
-🌱 I’m currently learning Telecommunications Engineering - Semester 4
+- 👋 Hi, I’m Kauê Maia
+- 👀 I’m interested in web development - front and back-end
+- 🌱 I’m currently learning Telecommunications Engineering - Semester 4
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 How to reach me:
 <div>
