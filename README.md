@@ -7,7 +7,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <a href="https://github.com/maia18/github-readme-stats">
-  <img height=281 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
 </a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/maia18/convoychat">
