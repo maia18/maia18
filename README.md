@@ -6,6 +6,8 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+##
+
 <a href="https://github.com/maia18/github-readme-stats">
   <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
 </a>
@@ -14,7 +16,7 @@
   <img width=350 height=281 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
 </a>
 
-##
+
 
 <div style="display: inline_block">
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
