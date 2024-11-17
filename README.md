@@ -30,9 +30,9 @@
 
 ##
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2fa84b9d-33bd-4b0e-b1cf-4ed96b0e8c59" width=300>
-</div>
+<p align="center">
+  <img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
+</p>
 
 ##
 
