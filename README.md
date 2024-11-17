@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kauê Maia
-- 👀 I’m interested in web development - front and back-end
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hi, I’m Kauê Maia!
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/lottie.json" widrh="29px">👀 I’m interested in web development - front and back-end
 - 🌱 I’m currently learning Telecommunications Engineering - Semester 4
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 How to reach me:
