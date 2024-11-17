@@ -1,6 +1,6 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">Hi, I’m Kauê Maia!
 - <img src="https://github.com/user-attachments/assets/5fadbd37-c809-441f-95a4-1777f6571cb7" height=30>👀 I’m interested in web development - front and back-end
-- <img src="https://github.com/user-attachments/assets/5fadbd37-c809-441f-95a4-1777f6571cb7" height=30>🌱 I’m currently learning Telecommunications Engineering - Semester 4
+- <img src="https://github.com/user-attachments/assets/682f2c36-0ef9-4b75-8c47-dfc7f5b1fd4e" height=30>🌱 I’m currently learning Telecommunications Engineering - Semester 4
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <img src="https://github.com/user-attachments/assets/5fadbd37-c809-441f-95a4-1777f6571cb7" height=30>📫 How to reach me:
 <div>
