@@ -33,6 +33,8 @@
   <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b" target="_blanck"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck" alt="Spotify"></a>
   <a href="https://www.instagram.com/_kaue20_/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck" alt="Instagram"></a>
 </div>
+
+<!-- file:///C:/Users/Nelso/Downloads/download20241100093444.png -->
         
 <!---
 maia18/maia18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
