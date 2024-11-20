@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <img src="https://github.com/user-attachments/assets/5fadbd37-c809-441f-95a4-1777f6571cb7" height=30> How to reach me:
 <div>
-  <a href="www.linkedin.com/in/nelson-kauê-b59290263" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
+  <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
   <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b" target="_blanck"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck" alt="Spotify"></a>
   <a href="https://www.instagram.com/_kaue20_/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck" alt="Instagram"></a>
 </div>
