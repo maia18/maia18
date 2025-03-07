@@ -36,7 +36,7 @@
 
 ##
 
-![snake gif](https://github.com/maia18/maia18/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/maia18/maia18/blob/output/github-contribution-grid-snake.svg)
 
 <!-- file:///C:/Users/Nelso/Downloads/download20241100093444.png -->
         
