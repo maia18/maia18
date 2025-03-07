@@ -42,7 +42,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![snake gif](https://github.com/maia18/maia18/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/maia18/maia18/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- file:///C:/Users/Nelso/Downloads/download20241100093444.png -->
         
