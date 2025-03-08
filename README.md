@@ -1,3 +1,5 @@
+<img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
+
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hi, I’m Kauê Maia!
 - <img src="https://github.com/user-attachments/assets/e9ba9a31-7ce8-46cc-8b43-6fab13999a2d" height=30> I’m interested in web development - front and back-end
 - <img src="https://github.com/user-attachments/assets/682f2c36-0ef9-4b75-8c47-dfc7f5b1fd4e" height=30> I’m currently learning Telecommunications Engineering - 4th Semester
@@ -20,19 +22,13 @@
 
 ##
 
-<p align="center">
-  <img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
-</p>
-
-##
-
 <p align="center"> 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150" align="center">
 </p>
 
 <div style="text-align: center;" align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
-  <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
+  <img width="491" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
+  <img width="253" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
