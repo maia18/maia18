@@ -32,10 +32,10 @@
 
 <div style="text-align: center;" align="center">
   <a href="https://github.com/maia18/github-readme-stats">
-    <img aligh="center" width="250" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
+    <img aligh="center" width="400" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
   </a>
   <a href="https://github.com/maia18/convoychat">
-    <img aligh="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
+    <img aligh="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
   </a>
 </div>
 
