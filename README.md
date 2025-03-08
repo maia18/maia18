@@ -19,6 +19,10 @@
 
 ##
 
+<p>*My stats*</p>
+
+##
+
 <a href="https://github.com/maia18/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
 </a>
@@ -37,7 +41,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img aligh="center" height="30" width="40" alt="github-snake" src="github-snake.svg"/>
+  <img alt="github-snake" src="github-snake.svg"/>
 </picture>
 
 ![snake gif](https://github.com/maia18/maia18/blob/output/github-contribution-grid-snake-dark.svg)
