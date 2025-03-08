@@ -19,7 +19,7 @@
 
 ##
 
-<p>*My stats*</p>
+<p align="center">*My stats*</p>
 
 <a href="https://github.com/maia18/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
