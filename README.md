@@ -31,7 +31,7 @@
 </p>
 
 <div style="text-align: center;" align="center">
-  <a href="https://github.com/maia18/github-readme-stats">
+  <a href="https://github.com/maia18/github-readme-stats" align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
   </a>
   <a href="https://github.com/maia18/convoychat">
