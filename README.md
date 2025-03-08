@@ -31,8 +31,8 @@
 </p>
 
 <div style="text-align: center;" align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
+  <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
