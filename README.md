@@ -13,6 +13,12 @@
 
 ##
 
+<p align="center">
+  <img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
+</p>
+
+##
+
 <a href="https://github.com/maia18/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
 </a>
@@ -27,14 +33,6 @@
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />        
 </div>
-
-##
-
-<p align="center">
-  <img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
-</p>
-
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
