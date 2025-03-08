@@ -19,14 +19,22 @@
 
 ##
 
-<p align="center">*My stats*</p>
+<p align="center"> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="150" align="center">
+</p>
 
-<a href="https://github.com/maia18/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maia18&theme=dark"/>
-</a>
+<div style="display: inline_block">
+  <a href="https://github.com/maia18/github-readme-stats">
+    <img aligh="center" width="600" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
+  </a>
+  <a href="https://github.com/maia18/convoychat">
+    <img aligh="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
+  </a>
+</div>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
-<a href="https://github.com/maia18/convoychat">
-  <img width=350 height=281 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/>
+<a >
+  
 </a>
 <div style="display: inline_block">
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
