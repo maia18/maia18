@@ -32,7 +32,7 @@
 </p>
 
 <div style="text-align: center;" align="center">
-  <img width="491" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
+  <img width="491" src="https://github-readme-stats.vercel.app/api?username=&&theme=dark">
   <img width="253" src="https://github-readme-stats.vercel.app/api/top-langs?username=&layout=donut&langs_count=8&card_width=320&theme=dark"/>
 </div>
 
