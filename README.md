@@ -33,6 +33,7 @@
 
 <div style="text-align: center;" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maia18&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maia18&hide_progress=true" />
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=maia18&theme=github-dark-blue)](https://git.io/streak-stats) -->
 <!--   <img width="491" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
   <img width="253" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/> -->
