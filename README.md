@@ -1,8 +1,9 @@
-<div align="center">
-  <a src="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile! font=Fira+Code&weight=500&size=22&pause=1000&color=0050EF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+⏜ ⏝ ⏜+" alt="Typing SVG">
-  </a>
-</div>
+# <div align="center">
+#  <a src="https://git.io/typing-svg">
+#    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile! font=Fira+Code&weight=500&size=22&pause=1000&color=0050EF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+⏜ ⏝ ⏜+" # alt="Typing SVG">
+#  </a>
+# </div>
+
 <img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hi, I’m Kauê Maia!
