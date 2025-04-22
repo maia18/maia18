@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/user-attachments/assets/e58753b5-83f5-4e87-9aa2-54ba6978c73c"/>
 <img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">   Hi, I’m Kauê Maia!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">   Hi, I’m Kauê!
 - <img src="https://github.com/user-attachments/assets/e9ba9a31-7ce8-46cc-8b43-6fab13999a2d" height=30> I’m interested in web development
 - <img src="https://github.com/user-attachments/assets/682f2c36-0ef9-4b75-8c47-dfc7f5b1fd4e" height=30> I’m currently learning Telecommunications Engineering
 
