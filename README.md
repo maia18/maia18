@@ -20,7 +20,10 @@
 <!--   <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
   <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b" target="_blanck"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck" alt="Spotify"></a>
   <a href="https://www.instagram.com/_kaue20_/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck" alt="Instagram"></a> -->
+
 </div><br>
+
+##
 <div style="display: inline_block">
   <img aligh="center" height="45" width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9">
   <img aligh="center" height="45" width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb">
@@ -33,11 +36,8 @@
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />        -->
-</div>
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-
 ##
+</div>
 
 <p align="center"> 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" align="center">
