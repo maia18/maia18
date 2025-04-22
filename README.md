@@ -15,8 +15,10 @@
   <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
   <a><img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100"></a>
   <a href="https://www.instagram.com/_kaue20_/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
-<!--   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-  <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
+  <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhybnpndmV2NWV4ejR2MTMwdDM3eXo1cW1qbWNrM2VrNzhrbGwyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" target="_blanck" alt="Spotify" width="100"></a>
+ 
+<!--  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"> -->
+<!--   <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
   <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b" target="_blanck"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck" alt="Spotify"></a>
   <a href="https://www.instagram.com/_kaue20_/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck" alt="Instagram"></a> -->
 </div><br>
