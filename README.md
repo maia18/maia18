@@ -7,15 +7,14 @@
 <img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">   Hi, I’m Kauê Maia!
-- <img src="https://github.com/user-attachments/assets/e9ba9a31-7ce8-46cc-8b43-6fab13999a2d" height=30> I’m interested in web development - full stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="40">
+- <img src="https://github.com/user-attachments/assets/e9ba9a31-7ce8-46cc-8b43-6fab13999a2d" height=30> I’m interested in web development
 - <img src="https://github.com/user-attachments/assets/682f2c36-0ef9-4b75-8c47-dfc7f5b1fd4e" height=30> I’m currently learning Telecommunications Engineering
 <!-- - 💞️ I’m looking to collaborate on ... -->
-<img src="https://github.com/user-attachments/assets/5fadbd37-c809-441f-95a4-1777f6571cb7" height=30> How to reach me:
+<img src="https://github.com/user-attachments/assets/5fadbd37-c809-441f-95a4-1777f6571cb7" height=30>   How to reach me:
 <div>
-  <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
-  <a><img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100"></a>
-  <a href="https://www.instagram.com/_kaue20_/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
-  <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhybnpndmV2NWV4ejR2MTMwdDM3eXo1cW1qbWNrM2VrNzhrbGwyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" target="_blanck" alt="Spotify" width="100"></a>
+  <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Linkedin"  width="40"></a>
+  <a href="https://www.instagram.com/_kaue20_/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="40"></a>
+  <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhybnpndmV2NWV4ejR2MTMwdDM3eXo1cW1qbWNrM2VrNzhrbGwyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" alt="Spotify" width="40"></a>
  
 <!--  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"> -->
 <!--   <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
