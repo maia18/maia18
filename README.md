@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="file:///home/ufc/Downloads/github-header-image.png" />
  <!-- <div align="center">
   <a src="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile! font=Fira+Code&weight=500&size=22&pause=1000&color=0050EF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+⏜ ⏝ ⏜+" # alt="Typing SVG">
