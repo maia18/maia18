@@ -32,7 +32,7 @@ maia18/maia18 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github.com/user-attachments/assets/e58753b5-83f5-4e87-9aa2-54ba6978c73c"/>
+<a href="https://github.com/maia18"><img src="https://github.com/user-attachments/assets/e58753b5-83f5-4e87-9aa2-54ba6978c73c"/></a>
 <img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">   Hi, I’m Kauê!
