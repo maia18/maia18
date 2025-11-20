@@ -32,10 +32,11 @@ maia18/maia18 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/maia18"><img src="https://github.com/user-attachments/assets/e58753b5-83f5-4e87-9aa2-54ba6978c73c"/></a>
+<a href="https://github.com/maia18"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+</a>
 <img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhdDRqenp0NXc3emN3Mzg0a3F6NHFzZXhrd3B2MmR5NGJtYjFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TAIr9YcFBD1fwAZeYu/giphy.gif">
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">   Hi, I’m Kauê!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hi, I’m Kauê!
 - <img src="https://github.com/user-attachments/assets/e9ba9a31-7ce8-46cc-8b43-6fab13999a2d" height=30> I’m interested in Cybersecurity and Database
 - <img src="https://github.com/user-attachments/assets/682f2c36-0ef9-4b75-8c47-dfc7f5b1fd4e" height=30> I’m currently learning Telecommunications Engineering
 
@@ -54,7 +55,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.w3schools.com/Html/html_intro.asp"><img aligh="center" height="45" width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9"></a>
   <a href="https://www.w3schools.com/css/css_intro.asp"><img aligh="center" height="45" width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb"></a>
   <a href="https://www.w3schools.com/js/js_intro.asp"><img aligh="center" height="45" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"></a>
-  <a href=></a>
+  <a href="..."><img aligh="center" height="45" width="50" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"></a>
+  <a href="..."><img aligh="center" height="45" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"></a>
+  <a href="..."><img aligh="center" height="45" width="100" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"></a>
   <a href="https://www.w3schools.com/git/git_intro.asp?remote=github"><img aligh="center" height="45" width="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"></a>
   <a href="https://code.visualstudio.com"><img aligh="center" height="45" width="50" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"></a>
 </div>
