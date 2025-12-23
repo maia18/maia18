@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" align="center">
 </p>
 <div style="text-align: center;" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maia18&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="(https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png)" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maia18&hide_progress=true&theme=dark"/>
 </div>
 
