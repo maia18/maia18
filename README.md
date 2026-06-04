@@ -1,41 +1,5 @@
- <!-- <div align="center">
-  <a src="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile! font=Fira+Code&weight=500&size=22&pause=1000&color=0050EF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+⏜ ⏝ ⏜+" # alt="Typing SVG">
-  </a>
- </div> -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!--  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"> -->
-<!--   <a href="https://www.linkedin.com/in/nelson-kauê-b59290263/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" alt="Linkedin"></a>
-  <a href="https://open.spotify.com/user/31tr3qwq2binqletd6hot5tkhhoq?si=82d5e698f124440b" target="_blanck"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck" alt="Spotify"></a>
-  <a href="https://www.instagram.com/_kaue20_/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck" alt="Instagram"></a> -->
-  <!-- <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-  <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img aligh="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />        -->
-<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=maia18&theme=github-dark-blue)](https://git.io/streak-stats) -->
-<!--   <img width="491" src="https://github-readme-stats.vercel.app/api?username=maia18&&theme=dark">
-  <img width="253" src="https://github-readme-stats.vercel.app/api/top-langs?username=maia18&layout=donut&langs_count=8&card_width=320&theme=dark"/> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg"/>
-</picture>
-
-![snake gif](https://github.com/maia18/maia18/blob/output/github-contribution-grid-snake-dark.svg) -->
-
-<!-- file:///C:/Users/Nelso/Downloads/download20241100093444.png -->
-        
-<!---
-maia18/maia18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<a href="https://github.com/maia18"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="auto">
-</a>
+<a href="https://github.com/maia18"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="auto"></a>
 <img align="right" width="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" alt="NUX_Octodex">
-
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hi, I’m Kauê!
 - <img src="https://github.com/user-attachments/assets/e9ba9a31-7ce8-46cc-8b43-6fab13999a2d" height=30> I’m interested in Cybersecurity and Database
@@ -64,7 +28,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ##
-
-<p align="center"> 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" align="center">
-</p>
