@@ -48,6 +48,6 @@
 <br>
 
 **[Academic Research & LaTeX Documentation](https://github.com/maia18/academic-research-latex)**
-> Comprehensive technical articles and step-by-step solutions for advanced engineering problem sets. Includes a detailed study on Antireflective Coatings and the full resolution of a 65-question applied electromagnetism list.
+> Comprehensive technical articles and step-by-step solutions for advanced engineering problem sets.
 > <br>
 > <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" height="20">
