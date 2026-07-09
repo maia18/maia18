@@ -40,7 +40,7 @@
 
 <br>
 
-📐 **[PID: Electromagnetism Computational Notebooks](cole_o_link_do_seu_repositorio_aqui)**
+📐 **[PID: Electromagnetism Computational Notebooks](https://github.com/maia18/pid-eletromagnetismo)**
 > Development of interactive computational tools and AI-assisted educational videos to enhance Electromagnetism teaching in Engineering.
 > <br>
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Artificial_Intelligence-7422B2?style=flat-square&logo=openai&logoColor=white" height="20">
