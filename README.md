@@ -46,3 +46,8 @@
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Artificial_Intelligence-7422B2?style=flat-square&logo=openai&logoColor=white" height="20">
 
 <br>
+
+**[Academic Research & LaTeX Documentation](https://github.com/maia18/academic-research-latex)**
+> Comprehensive technical articles and step-by-step solutions for advanced engineering problem sets. Includes a detailed study on Antireflective Coatings and the full resolution of a 65-question applied electromagnetism list.
+> <br>
+> <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" height="20">
