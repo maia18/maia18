@@ -30,6 +30,12 @@
 ##
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30"> Featured Projects
 
-  - **[Applied Electromagnetism Simulations](link_aqui)**
-  - **[Scientific Documentation & LaTeX](link_aqui)**
-  - **[Database / Cybersecurity Studies](link_aqui)**
+<br>
+
+**[Evalytics App](https://github.com/maia18/evalytics-app)**
+
+> A cross-platform application to manage and synchronize institutional assessments (MEC/INEP guidelines) in real-time.
+> <br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Flet-00A98F?style=flat-square&logo=flutter&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20">
+
+<br>
