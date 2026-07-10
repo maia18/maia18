@@ -28,9 +28,15 @@
 </div>
 
 ##
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30"> Featured Projects
 
-<br>
+<h1 align="center">
+  <img 
+    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" 
+    width="40" 
+    style="vertical-align: middle; margin-right: 10px;" 
+  />
+  <span style="vertical-align: middle;">Featured Projects</span>
+</h1>
 
 **[Evalytics App](https://github.com/maia18/evalytics-app)**
 
