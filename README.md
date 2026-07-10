@@ -29,14 +29,12 @@
 
 ##
 
-<h1 align="center">
-  <img 
-    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" 
-    width="40" 
-    style="vertical-align: middle; margin-right: 10px;" 
-  />
-  <span style="vertical-align: middle;">Featured Projects</span>
-</h1>
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="40" valign="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Featured+Projects" valign="middle"/>
+</div>
+
+##
 
 **[Evalytics App](https://github.com/maia18/evalytics-app)**
 
