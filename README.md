@@ -36,7 +36,7 @@
 
 ##
 
-**[Evalytics App](https://github.com/maia18/evalytics-app)**
+**[Evalytics](https://github.com/maia18/evalytics)**
 
 > A cross-platform application to manage and synchronize institutional assessments (MEC/INEP guidelines) in real-time.
 > <br>
